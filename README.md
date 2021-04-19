@@ -8,6 +8,7 @@ tool. The purpose was to compare the efficacy and accuracy of:
 3) Superscalar, Out-of-order CPUs
 4) Multithreading and lock protocols
 
+In addition, we also had to examine energy consumption and temperature increase that each each technique lead to.
 
 Students also had to implement some branch predictors and mutual exclusion
 protocols in C++,use bash scripts to run the benchmarks and plot the results
