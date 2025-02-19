@@ -1,5 +1,5 @@
 # NTUA-AdvCompArch
-2019-2020 NTUA class "Advanced Computer Architecture"
+2019-2020 NTUA class "Advanced Computer Architecture", www.cslab.ece.ntua.gr
 
 Students had to run benchmarks in simulations of CPU’s, using INTEL’s PIN
 tool. The purpose was to compare the efficacy and accuracy of:
